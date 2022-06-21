@@ -1,0 +1,32 @@
+
+
+#include <iostream>
+using namespace std;
+
+
+int BubbleSort(int arr[],int n)
+{
+  int lar=0, temp;
+  
+  while (lar< )
+  
+  
+
+}
+
+int main() {
+    
+    int n ;
+    cin>>n;
+    int arr[n];
+    for (int i=0;i<n;i++)
+  {
+      cin>>arr[i];
+  }
+    
+    cout<<BubbleSort(arr,n);
+    
+    
+
+    return 0;
+}
